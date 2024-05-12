@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400..800&display=swap');
+
+@font-face {
+  font-family: 'CalSans';
+  src: url('./assets/font/otf/CalSans-SemiBold.otf') format('opentype');
+  /* Add more font formats if necessary */
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: 'CalSans', sans-serif;
+}

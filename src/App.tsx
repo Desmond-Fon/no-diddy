@@ -1,5 +1,5 @@
 import './App.css'
-
+import './assets/font/CalSans-SemiBold.otf'
 function App() {
 
   return (

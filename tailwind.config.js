@@ -2,7 +2,14 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        yellow: "#FFF858"
+      },
+      fontFamily: {
+        baloo: ["Baloo Paaji 2"],
+      },
+    },
   },
   plugins: [],
 };
