@@ -5,10 +5,34 @@
   src: url('./assets/font/otf/CalSans-SemiBold.otf') format('opentype');
   /* Add more font formats if necessary */
 }
+@font-face {
+  font-family: 'boloo';
+  src: url('./assets/font/BalooPaaji-Regular.ttf') format('opentype');
+  /* Add more font formats if necessary */
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
+.cals {
   font-family: 'CalSans', sans-serif;
+}
+
+.baloo {
+  font-family: 'boloo', sans-serif;
+} 
+
+.headerBg {
+  background-image: url('./assets/topBg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.roadmapBg {
+  background: url('./assets/roadmap.png'), #171818;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  /* height: 100vh; */
 }
