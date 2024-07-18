@@ -148,7 +148,7 @@ const Landing = () => {
               <p className="text-[28px]">Step 1</p>
               <div>
                 <p className="text-[24px]">
-                  Create a Wallet: download Harrykeeper wallet extension.
+                  Create a Wallet: download Tonkeeper wallet extension.
                 </p>
               </div>
             </div>
