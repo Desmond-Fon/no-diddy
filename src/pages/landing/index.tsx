@@ -40,7 +40,7 @@ const Landing = () => {
             <p className="cals text-white font-[600] text-[25px] mt-4 leading-[26px] tracking-[3%] w-[70%] text-center">
               Who TF is Harry? Harry is a character of telegram since 2015 now
               tokenized into a ton meme: $HARRY. It appeared in some Durov's
-              telegram post from 2016. $Harry, the lonely guy on telegram with
+              telegram post from 2015. $Harry, the lonely guy on telegram with
               the biggest reactions to anything. He expresses every action on
               telegram with a big reaction 🤯. Completely stealth launched, no
               presale bullshit, zero taxes (ever). Almost entire LP burned.{" "}
@@ -181,9 +181,9 @@ const Landing = () => {
               <p className="text-[28px]">Step 3</p>
               <div>
                 <p className="text-[24px]">
-                  Go to Ston.fi connect to Ston.fi. Go to Ston.fi in google
+                  Go to dedust.io connect to dedust.io. Go to dedust.io in google
                   chrome. Connect your wallet. Paste the $harry token address
-                  into Ston.fi, select $harry, and confirm. When Tonkeeper
+                  into dedust.io, select $harry, and confirm. When Tonkeeper
                   prompts you for a wallet signature, sign.
                 </p>
               </div>
