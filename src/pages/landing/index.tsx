@@ -1,5 +1,5 @@
 import Nav from "../../components/Nav";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/Harry.png";
 import arrow from "../../assets/arrow.png";
 import hero from "../../assets/hero.png";
 import chart from "../../assets/chart.png";
