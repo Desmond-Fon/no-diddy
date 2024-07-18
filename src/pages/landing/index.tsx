@@ -141,8 +141,8 @@ const Landing = () => {
             <div className="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
               <a href="https://t.me/durov/40" className="text-white text-[30px] baloo">$HARRY</a>
               <a href="#" className="baloo text-[20px] text-white">Join our Community</a>
-              <a href="https://x.com/TelegramsHarry?t=D4wepKFbuSB-Mp_rnsYvZg&s=09"><img src={x} className='w-[15px] lg:w-[25px] bg-white' alt="X logo" /></a> 
-           <a href="https://t.me/harryonton"><img src={telegram} className='w-[15px] lg:w-[25px] bg-white' alt="Telegram logo" /></a>
+              <a href="https://x.com/TelegramsHarry?t=D4wepKFbuSB-Mp_rnsYvZg&s=09"><img src={x} className='w-[25px] lg:w-[35px] bg-white' alt="X logo" /></a> 
+           <a href="https://t.me/harryonton"><img src={telegram} className='w-[25px] lg:w-[35px] bg-white' alt="Telegram logo" /></a>
             </div>
             <div className="flex gap-10 mt-12 md:mt-0 text-white text-2xl list-none">
                 <p className="text-[15px] baloo">COPYRIGHT © 2024 HARRY

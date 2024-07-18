@@ -74,14 +74,14 @@ const Nav = () => {
             <a href="https://x.com/TelegramsHarry?t=D4wepKFbuSB-Mp_rnsYvZg&s=09">
               <img
                 src={x}
-                className="w-[15px] lg:w-[25px] mx-4 hover:bg-red"
+                className="w-[30px] lg:w-[25px] mx-4 hover:bg-red"
                 alt="X logo"
               />
             </a>
             <a href="https://t.me/harryonton">
               <img
                 src={telegram}
-                className="w-[15px] lg:w-[25px] hover:bg-red"
+                className="w-[30px] lg:w-[30px] hover:bg-red"
                 alt="Telegram logo"
               />
             </a>
@@ -91,7 +91,7 @@ const Nav = () => {
 
       <p className="text-[30px] flex">$HARRY</p>
       <GiHamburgerMenu
-        className="w-[20px] lg:w-[60px] lg:hidden"
+        className="w-[40px] h-[30px] lg:w-[60px] lg:hidden"
         onClick={toggleMenu}
       />
 
@@ -130,14 +130,14 @@ const Nav = () => {
         <a href="https://x.com/TelegramsHarry?t=D4wepKFbuSB-Mp_rnsYvZg&s=09">
           <img
             src={x}
-            className="w-[15px] lg:w-[25px] mx-4 hover:bg-red"
+            className="w-[15px] lg:w-[35px] mx-4 hover:bg-red"
             alt="X logo"
           />
         </a>
         <a href="https://t.me/harryonton">
           <img
             src={telegram}
-            className="w-[15px] lg:w-[25px] hover:bg-red"
+            className="w-[15px] lg:w-[35px] hover:bg-red"
             alt="Telegram logo"
           />
         </a>
