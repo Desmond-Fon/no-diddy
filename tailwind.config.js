@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        yellow: "#FFF858",
+        red: "#FF0038",
+        grey: "#D5D8D9",
         colFrom: "rgba(46, 47, 47, 1)",
         colTo: "rgba(146, 149, 149, 0)",
       },
