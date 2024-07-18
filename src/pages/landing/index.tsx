@@ -148,7 +148,7 @@ const Landing = () => {
               <p className="text-[28px]">Step 1</p>
               <div>
                 <p className="text-[24px]">
-                  Create a Walletdownload Harrykeeper wallet extension.
+                  Create a Wallet: download Harrykeeper wallet extension.
                 </p>
               </div>
             </div>
@@ -158,7 +158,7 @@ const Landing = () => {
               <div>
                 <p className="text-[24px]">
                   {" "}
-                  Get Some TON have TON in your wallet to switch to $harry. If
+                  Get Some TON: have TON in your wallet to switch to $harry. If
                   you don&apos;t have any TON, you can buy directly on Bybit,
                   OKX exchange, transfer from another wallet, or buy on another
                   exchange and send it to your wallet.
@@ -181,7 +181,7 @@ const Landing = () => {
               <p className="text-[28px]">Step 3</p>
               <div>
                 <p className="text-[24px]">
-                  Go to dedust.io connect to dedust.io. Go to dedust.io in google
+                  Wallet connection: Go to dedust.io on google
                   chrome. Connect your wallet. Paste the $harry token address
                   into dedust.io, select $harry, and confirm. When Tonkeeper
                   prompts you for a wallet signature, sign.
@@ -193,7 +193,7 @@ const Landing = () => {
               <p className="text-[28px]">Step 4</p>
               <div>
                 <p className="text-[24px]">
-                  Switch TON for $harry switch TON for $harry. We have ZERO
+                  Switch TON for $harry: We have ZERO
                   taxes so you don&apos;t need to worry about buying with a
                   specific slippage, although you may need to use slippage
                   during times of market volatility.
@@ -244,7 +244,7 @@ const Landing = () => {
               $HARRY
             </a>
             <a href="#" className="baloo text-[20px] text-white">
-              Join our Community
+              Join Community
             </a>
             <a href="https://x.com/TelegramsHarry?t=D4wepKFbuSB-Mp_rnsYvZg&s=09">
               <img
