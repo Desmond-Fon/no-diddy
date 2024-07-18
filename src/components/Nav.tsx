@@ -56,6 +56,14 @@ const Nav = () => {
           <NavHashLink
             onClick={toggleMenu}
             smooth
+            to="/#howToBuy"
+            className="leading-[18px] hover:text-primary/75 text-[18px]"
+          >
+            How to Buy
+          </NavHashLink>
+          <NavHashLink
+            onClick={toggleMenu}
+            smooth
             to="/#tokenomics"
             className="leading-[18px] hover:text-primary/75 text-[18px]"
           >
@@ -89,7 +97,7 @@ const Nav = () => {
         </div>
       </div>
 
-      <p className="text-[30px] flex">$HARRY</p>
+      <p className="text-[30px] lg:hidden flex">$HARRY</p>
       <GiHamburgerMenu
         className="w-[40px] h-[30px] lg:w-[60px] lg:hidden"
         onClick={toggleMenu}
@@ -110,6 +118,13 @@ const Nav = () => {
           className="leading-[18px] hover:text-black/75 text-[20px]"
         >
           RoadMap
+        </NavHashLink>
+        <NavHashLink
+          smooth
+          to="/#howToBuy"
+          className="leading-[18px] hover:text-black/75 text-[20px]"
+        >
+          How to Buy
         </NavHashLink>
         <NavHashLink
           smooth
