@@ -38,9 +38,9 @@ const Landing = () => {
               transition={bounceTransition}
             />
             <p className="cals text-white font-[600] text-[25px] mt-4 leading-[26px] tracking-[3%] w-[70%] text-center">
-              Who TF is Harry? Harry is a character of telegram since 2015 now
+              Who TF is Harry? Harry is a character of telegram since 2016 now
               tokenized into a ton meme: $HARRY. It appeared in some Durov's
-              telegram post from 2015. $Harry, the lonely guy on telegram with
+              telegram post from 2016. $Harry, the lonely guy on telegram with
               the biggest reactions to anything. He expresses every action on
               telegram with a big reaction 🤯. Completely stealth launched, no
               presale bullshit, zero taxes (ever). Almost entire LP burned.{" "}
