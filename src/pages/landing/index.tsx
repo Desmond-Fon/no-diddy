@@ -1,5 +1,5 @@
 import Nav from "../../components/Nav";
-import harry from "../../assets/harry.jpg";
+import harry from "../../assets/Harry.jpg";
 import arrow from "../../assets/arrow.png";
 import paper from "../../assets/paper.png";
 import angry from "../../assets/angryharry.jpg";
@@ -26,7 +26,7 @@ const Landing = () => {
               people, for the people.
             </p>
 
-            <button className="flex justify-center items-center gap-2 h-[55px] mt-[30px] w-[206px] bg-yellow rounded-full leading-[18px] cals font-[600] text-[17px] tracking-[3%]">
+            <button className="flex justify-center items-center gap-2 h-[55px] mt-[30px] w-[206px] bg-white rounded-full leading-[18px] cals font-[600] text-[17px] tracking-[3%]">
               BUY NOW <img src={arrow} alt="" />
             </button>
           </div>
